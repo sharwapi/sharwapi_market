@@ -4,7 +4,7 @@
 
 This repository stores the plugin market for [SharwAPI (also known as Sharw's API)](https://github.com/sharwapi/sharwapi.core), written in Vue.
 
-**Online Market**: [https://sharwapi.hope-now.top/market](https://sharwapi.hope-now.top/market)
+**Online Market**: [https://sharwapi-market.hope-now.top](https://sharwapi-market.hope-now.top)
 
 ## Data Source
 

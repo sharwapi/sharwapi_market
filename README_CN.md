@@ -4,7 +4,7 @@
 
 本仓库存储 [SharwAPI (又称 Sharw's API)](https://github.com/sharwapi/sharwapi.core) 的使用Vue编写的插件市场
 
-**在线市场**：[https://sharwapi.hope-now.top/market](https://sharwapi.hope-now.top/market)
+**在线市场**：[https://sharwapi-market.hope-now.top](https://sharwapi-market.hope-now.top)
 
 ## 数据源
 
