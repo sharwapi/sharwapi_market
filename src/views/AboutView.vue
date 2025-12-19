@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { useI18n } from 'vue-i18n';
+import { useI18n } from 'vue-i18n'
 
-const { t } = useI18n();
+const { t } = useI18n()
 </script>
 
 <template>
@@ -10,8 +10,8 @@ const { t } = useI18n();
     <p>{{ t('about.p1') }}</p>
     <p>
       {{ t('about.p2') }}
-      <a href="https://github.com/sharwapi/sharwapi_market" target="_blank">
-        Sharwapi Market
+      <a href="https://github.com/sharwapi/sharwapi_plugins_collection" target="_blank">
+        Sharwapi Plugins Collection
       </a>
     </p>
   </div>
