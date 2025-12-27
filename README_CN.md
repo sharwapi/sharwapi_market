@@ -6,6 +6,8 @@
 
 **在线市场**：[https://sharwapi-market.hope-now.top](https://sharwapi-market.hope-now.top)
 
+[![Deploys by Netlify](https://img.shields.io/netlify/95ae2090-5915-440a-bf9e-25320084e5bf?style=flat&label=Deploy%20by%20netlify)](https://www.netlify.com)
+
 ## 数据源
 
 插件市场从 [插件索引仓库](https://github.com/sharwapi/sharwapi_plugins_collection) 获取数据
